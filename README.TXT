@@ -28,6 +28,7 @@ Estructura principal:
              --SuiteTest
              --SuiteTest.xml  (EJECUTAR)
              --Utils (MODIFICAR EL CORREO ANTES DE EJECUTAR)
+---EJERCICIO.mp4 (Se subió un video de demostración de la ejecución de la prueba)
 
 NOTA: Para la creacion de usuario, se tiene que modificar el correo con un correlativo (en UTILS FILA 6) .
 
